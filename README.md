@@ -93,16 +93,8 @@
   />
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br clear='all'>
+<br clear='all'>
 
 ## 📱 Social 
 <a href="https://www.instagram.com/matteus.mc_/">
