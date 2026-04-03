@@ -76,26 +76,17 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matteuscantisani&show_icons=true&theme=tokyonight&locale=pt-br" 
+<p align="center">
+  <img
+    height="200"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matteuscantisani&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteuscantisani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    height="200"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matteuscantisani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
 </p>
-
-<br clear='all'>
-<br clear='all'>
-
 ## 📱 Social 
 <a href="https://www.instagram.com/matteus.mc_/">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
