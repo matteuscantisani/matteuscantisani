@@ -76,9 +76,10 @@
 
 ### 📊 Estatísticas
 
-| | |
-|---|---|
-| ![](https://github-readme-stats-sigma-five.vercel.app/api?username=matteuscantisani&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400) | ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matteuscantisani&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400) |
+<p align="center">
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
+</p>
 
 
 ## 📱 Social 
