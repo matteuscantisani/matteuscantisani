@@ -77,10 +77,9 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" />
-  <img src="./profile/top-langs.svg" height="180" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=matteuscantisani&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matteuscantisani&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
-
 
 ## 📱 Social 
 <a href="https://www.instagram.com/matteus.mc_/">
