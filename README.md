@@ -77,10 +77,17 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=matteuscantisani&show_icons=true&theme=tokyonight&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matteuscantisani&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=matteuscantisani&show_icons=true&theme=tokyonight&locale=pt-br"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteuscantisani&layout=compact&theme=tokyonight&langs_count=8"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
-
 ## 📱 Social 
 <a href="https://www.instagram.com/matteus.mc_/">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
